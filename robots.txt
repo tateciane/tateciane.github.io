@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tateciane.github.io/sitemap
+Sitemap: https://tateciane.github.io/app/sitemap
+Sitemap: https://tateciane.github.io/assets/sitemap
+Sitemap: https://tateciane.github.io/css/sitemap
+Sitemap: https://tateciane.github.io/includes/sitemap
+Sitemap: https://tateciane.github.io/item/sitemap
+Sitemap: https://tateciane.github.io/src/sitemap
